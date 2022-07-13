@@ -3,7 +3,7 @@
   <h1 align="left"> Hi 👋, I'm Patrick Sheron Moucle</h1>
 <a     href="https://app.daily.dev/shelbon"><img src="https://github.com/shelbon/shelbon/blob/main/devcard.svg"  width="295" align="right" alt="shelbon's Dev Card"/></a>
 
-- Other version control:[https://gitlab.com/shelbon](https://gitlab.com/shelbon)
+- Other version control: [https://gitlab.com/shelbon](https://gitlab.com/shelbon)
 - 👨‍💻 All of my projects are available at [https://www.mouclepatrick.com/](https://www.mouclepatrick.com/)
 
 - 📫 How to reach me **mouclepatrick@protonmail.com**
