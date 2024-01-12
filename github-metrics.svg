@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1166 Commits
+                            1167 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.30732667599904" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="325.30732667599904" y="0" width="90.24522961234662" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="415.55255628834567" y="0" width="12.216941247913368" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="427.76949753625905" y="0" width="11.125629508186831" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="438.89512704444587" y="0" width="9.105569700091525" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="448.0006967445374" y="0" width="6.822972260585808" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.82366900512324" y="0" width="2.985922341973211" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="457.80959134709644" y="0" width="2.190408652903588" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.49218857204414" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="323.49218857204414" y="0" width="89.74168253075052" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="413.23387110279464" y="0" width="12.148773599187303" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="425.382644701982" y="0" width="11.621454201252925" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="437.00409890323493" y="0" width="11.063551121397504" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="448.0676500246324" y="0" width="6.784901685726757" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.8525517103592" y="0" width="2.9692616000411247" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="457.8218133104003" y="0" width="2.178186689599707" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -239,7 +239,7 @@
                             </div>
                             <small>
                                 <div>8.44 MB</div>
-                                <div>70.72%</div>
+                                <div>70.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -251,19 +251,19 @@
                             </div>
                             <small>
                                 <div>316 kB</div>
-                                <div>2.66%</div>
+                                <div>2.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Jupyter Notebook
+                                Kotlin
                             </div>
                             <small>
-                                <div>236 kB</div>
-                                <div>1.98%</div>
+                                <div>288 kB</div>
+                                <div>2.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -289,19 +289,19 @@
                             </div>
                             <small>
                                 <div>2.34 MB</div>
-                                <div>19.62%</div>
+                                <div>19.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Kotlin
+                                Jupyter Notebook
                             </div>
                             <small>
-                                <div>288 kB</div>
-                                <div>2.42%</div>
+                                <div>303 kB</div>
+                                <div>2.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -313,7 +313,7 @@
                             </div>
                             <small>
                                 <div>177 kB</div>
-                                <div>1.48%</div>
+                                <div>1.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -325,7 +325,7 @@
                             </div>
                             <small>
                                 <div>56.8 kB</div>
-                                <div>0.48%</div>
+                                <div>0.47%</div>
                             </small>
                         </div>
                     </section>
@@ -400,7 +400,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.697467488021914 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.782340862423005 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -552,7 +552,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2024, 01:22:21  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2024, 01:22:44  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
