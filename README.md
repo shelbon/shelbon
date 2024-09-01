@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
  
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,svelte,vue,gatsby,php,laravel,graphql,css,html,spring,tailwind,idea,vscode,redis,git,gitlab&perline=6&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=kotlin,java,svelte,vue,spring,laravel,nuxt,htmx,go,php,elixir,graphql,css,html,tailwind,idea,vscode,redis,git,gitlab&perline=6&theme=light)](https://skillicons.dev)
 
 [My dev passport](https://passeport.dev/p/e96cf336-11d7-4edd-916d-11af626333a8)
  
