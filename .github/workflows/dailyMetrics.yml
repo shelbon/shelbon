@@ -31,3 +31,5 @@ jobs:
           # Notable contributions
           plugin_notable: yes
           plugin_notable_repositories: yes
+          plugin_topics: yes
+          plugin_topics_mode: 'icons'
