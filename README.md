@@ -50,18 +50,13 @@ Sunday                   1975 commits        ███████░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue.js                   1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   39.94 % 
-PHP                      1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   35.62 % 
-Blade Template           1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-Scheme                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 hrs 55 mins       ███████████████░░░░░░░░░░   60.39 % 
-Zed                      1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   39.61 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 50 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -81,6 +76,6 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2024 04:22:40 UTC
+ Last Updated on 10/10/2024 04:22:26 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
