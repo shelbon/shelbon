@@ -19,7 +19,7 @@
 
 [My dev passport](https://passeport.dev/p/e96cf336-11d7-4edd-916d-11af626333a8)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C006%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C012%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,17 +50,17 @@ Sunday                   1991 commits        ███████░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue.js                   9 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.65 % 
-PHP                      6 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Elixir                   5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-TypeScript               2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Blade Template           1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Vue.js                   9 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
+Elixir                   6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+PHP                      5 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+TypeScript               2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Blade Template           1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 🔥 Editors: 
-Neovim                   31 hrs 3 mins       █████████████████████████   100.00 % 
+Neovim                   29 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    31 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    29 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -80,6 +80,6 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2025 04:24:44 UTC
+ Last Updated on 05/01/2025 04:24:45 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
