@@ -6,7 +6,7 @@
 - Other version control: [https://gitlab.com/shelbon](https://gitlab.com/shelbon)
 - 👨‍💻 All of my projects are available at [https://www.mouclepatrick.com/](https://www.mouclepatrick.com/)
 
-- 📫 How to reach me **mouclepatrick@protonmail.com**
+- 📫 How to reach me **dev@mouclepatrick.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
