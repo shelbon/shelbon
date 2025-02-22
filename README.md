@@ -19,9 +19,9 @@
 
 [My dev passport](https://passeport.dev/p/e96cf336-11d7-4edd-916d-11af626333a8)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C243%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C248%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **I'm a Night 🦉** 
 
@@ -50,17 +50,17 @@ Sunday                   1991 commits        ███████░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue.js                   24 hrs 24 mins      █████████████░░░░░░░░░░░░   53.67 % 
-PHP                      7 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-TypeScript               3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Blade Template           3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-YAML                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Vue.js                   26 hrs 11 mins      ██████████████░░░░░░░░░░░   55.15 % 
+PHP                      6 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+TypeScript               4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+YAML                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Bash                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-Neovim                   45 hrs 29 mins      █████████████████████████   100.00 % 
+Neovim                   47 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    45 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    47 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -80,6 +80,6 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2025 04:26:23 UTC
+ Last Updated on 22/02/2025 04:25:29 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
