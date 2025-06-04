@@ -17,3 +17,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "True"
           SHOW_SHORT_INFO: "False"
+          SHOW_PROFILE_VIEWS: "false"
