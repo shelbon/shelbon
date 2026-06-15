@@ -19,26 +19,26 @@
 
 [My dev passport](https://passeport.dev/p/e96cf336-11d7-4edd-916d-11af626333a8)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C670%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C676%20hrs%2028%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                309 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-🌆 Daytime                3329 commits        ██████████░░░░░░░░░░░░░░░   38.86 % 
-🌃 Evening                4382 commits        █████████████░░░░░░░░░░░░   51.15 % 
+🌞 Morning                309 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+🌆 Daytime                3329 commits        ██████████░░░░░░░░░░░░░░░   38.81 % 
+🌃 Evening                4392 commits        █████████████░░░░░░░░░░░░   51.21 % 
 🌙 Night                  547 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1487 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Tuesday                  1561 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Wednesday                1386 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Thursday                 798 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Friday                   621 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Saturday                 703 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Sunday                   2011 commits        ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+Monday                   1487 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Tuesday                  1561 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Wednesday                1396 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Thursday                 798 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Friday                   621 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Saturday                 703 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Sunday                   2011 commits        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
 ```
 
 
@@ -48,19 +48,19 @@ Sunday                   2011 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 14 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   34.96 % 
-Rust                     6 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-PHP                      4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Vue                      3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Elixir                   3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Markdown                 17 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   38.29 % 
+Rust                     6 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+PHP                      4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Vue                      3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+TypeScript               2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🔥 Editors: 
-Neovim                   25 hrs 54 mins      ███████████████░░░░░░░░░░   61.74 % 
-Codex CLI                15 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   36.22 % 
-VS Code                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Neovim                   24 hrs 26 mins      █████████████░░░░░░░░░░░░   52.91 % 
+Codex CLI                20 hrs 53 mins      ███████████░░░░░░░░░░░░░░   45.23 % 
+VS Code                  51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 💻 Operating System: 
-Linux                    41 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    46 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -80,6 +80,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2026 08:11:02 UTC
+ Last Updated on 15/06/2026 09:55:24 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
