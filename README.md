@@ -19,7 +19,7 @@
 
 [My dev passport](https://passeport.dev/p/e96cf336-11d7-4edd-916d-11af626333a8)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C691%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C689%20hrs%2050%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -48,19 +48,19 @@ Sunday                   2011 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 16 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   34.85 % 
-PHP                      7 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Rust                     6 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Vue                      3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-TypeScript               2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Markdown                 16 hrs 52 mins      █████████░░░░░░░░░░░░░░░░   35.73 % 
+PHP                      9 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Rust                     5 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+TypeScript               3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Vue                      2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 🔥 Editors: 
-Neovim                   25 hrs 52 mins      █████████████░░░░░░░░░░░░   53.92 % 
-Codex CLI                21 hrs 14 mins      ███████████░░░░░░░░░░░░░░   44.29 % 
-VS Code                  51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Neovim                   25 hrs 38 mins      ██████████████░░░░░░░░░░░   54.29 % 
+Codex CLI                19 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   41.18 % 
+VS Code                  2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 💻 Operating System: 
-Linux                    47 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    47 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -80,6 +80,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2026 09:20:38 UTC
+ Last Updated on 17/06/2026 08:55:52 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
