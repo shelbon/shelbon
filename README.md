@@ -48,19 +48,19 @@ Sunday                   2011 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 12 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-PHP                      12 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-Vue                      6 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-TypeScript               4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-JSON                     2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+PHP                      12 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+Markdown                 9 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Vue                      6 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+TypeScript               4 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Nix                      1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
-Neovim                   36 hrs 19 mins      ████████████████████░░░░░   79.08 % 
-Codex CLI                7 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-VS Code                  1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Neovim                   36 hrs 47 mins      ██████████████████████░░░   86.82 % 
+Codex CLI                3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+VS Code                  1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 💻 Operating System: 
-Linux                    45 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    42 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -80,6 +80,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2026 08:23:22 UTC
+ Last Updated on 22/06/2026 09:42:28 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
