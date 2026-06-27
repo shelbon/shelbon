@@ -19,7 +19,7 @@
 
 [My dev passport](https://passeport.dev/p/e96cf336-11d7-4edd-916d-11af626333a8)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C754%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C763%20hrs%2044%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -48,21 +48,21 @@ Sunday                   2011 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      16 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   30.46 % 
-Markdown                 6 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Vue                      6 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Other                    5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-TypeScript               5 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+PHP                      18 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   32.20 % 
+Markdown                 7 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+TypeScript               6 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Other                    6 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Vue                      4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 
 🔥 Editors: 
-Neovim                   39 hrs 30 mins      ██████████████████░░░░░░░   73.71 % 
-Codex CLI                6 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Pi                       6 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-VS Code                  55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-OpenCode                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Neovim                   46 hrs 38 mins      ████████████████████░░░░░   81.94 % 
+Codex CLI                7 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Claude Code              1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Opencode Cli             41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+VS Code                  38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 💻 Operating System: 
-Linux                    53 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    56 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -82,6 +82,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2026 07:44:42 UTC
+ Last Updated on 27/06/2026 06:48:39 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
