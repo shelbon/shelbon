@@ -19,9 +19,9 @@
 
 [My dev passport](https://passeport.dev/p/e96cf336-11d7-4edd-916d-11af626333a8)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C079%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C085%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C124%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C131%20hrs%2011%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -50,46 +50,46 @@ Sunday                   2035 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 13 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-JavaScript               11 hrs              █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-PHP                      9 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-TypeScript               8 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-JSON                     2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Markdown                 13 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+PHP                      12 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+JavaScript               10 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+TypeScript               4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+JSON                     2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-Neovim                   22 hrs 5 mins       ███████████░░░░░░░░░░░░░░   43.76 % 
-Claude Code              17 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   33.93 % 
-Codex CLI                11 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Codex Vscode             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Claude Code              22 hrs 55 mins      ███████████░░░░░░░░░░░░░░   45.89 % 
+Neovim                   18 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   36.64 % 
+Codex CLI                8 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Codex Vscode             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Linux                    50 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    49 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 hrs 31 mins (98.1%)
+⏱ AI Coding Time: 49 hrs 7 mins (98.35%)
 
-✍️ 32,360 lines written by AI, 1,141 lines written by hand (96.59% AI-written)
+✍️ 30,824 lines written by AI, 1,150 lines written by hand (96.4% AI-written)
 
-🔤 110,487,049 Input Tokens, 9,859,999 Output Tokens
+🔤 106,159,157 Input Tokens, 9,405,921 Output Tokens
 
-💵 $1309.52 Estimated AI Cost This Week
+💵 $1277.86 Estimated AI Cost This Week
 
-🧠 151 AI Sessions, 1007 AI Prompts
+🧠 140 AI Sessions, 1082 AI Prompts
 
-GPT                      24,130 lines        █████████████████░░░░░░░░   69.46 % 
-Opus                     6,524 lines         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Fable                    3,449 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Codex-Cli                634 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+GPT                      21,946 lines        ████████████████░░░░░░░░░   65.79 % 
+Opus                     6,524 lines         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Fable                    4,876 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Codex-Cli                13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.59% of written lines came from AI
-📚 Verbose Prompter — average 15,750 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.26% of changed lines were hand-edited
+🤖 AI-Driven — 96.4% of written lines came from AI
+📚 Verbose Prompter — average 18,430 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 3.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -109,6 +109,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 08:16:23 UTC
+ Last Updated on 07/09/2026 08:48:58 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
