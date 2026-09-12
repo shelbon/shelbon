@@ -50,45 +50,45 @@ Sunday                   2035 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 19 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-PHP                      15 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-JavaScript               12 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-TypeScript               4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Other                    2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Markdown                 16 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+PHP                      14 hrs              ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+JavaScript               6 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+TypeScript               5 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Other                    2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🔥 Editors: 
-Claude Code              34 hrs 1 min        █████████████░░░░░░░░░░░░   51.37 % 
-Neovim                   16 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-Codex CLI                15 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+Claude Code              34 hrs 34 mins      ███████████████░░░░░░░░░░   60.79 % 
+Neovim                   14 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Codex CLI                7 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 
 💻 Operating System: 
-Linux                    66 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    56 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 64 hrs 57 mins (98.07%)
+⏱ AI Coding Time: 55 hrs 5 mins (96.82%)
 
-✍️ 32,726 lines written by AI, 545 lines written by hand (98.36% AI-written)
+✍️ 28,006 lines written by AI, 3,154 lines written by hand (89.88% AI-written)
 
-🔤 56,617,776 Input Tokens, 5,433,531 Output Tokens
+🔤 40,743,867 Input Tokens, 4,148,177 Output Tokens
 
-💵 $1515.24 Estimated AI Cost This Week
+💵 $1332.39 Estimated AI Cost This Week
 
-🧠 139 AI Sessions, 1163 AI Prompts
+🧠 124 AI Sessions, 970 AI Prompts
 
-GPT                      21,132 lines        ████████████████░░░░░░░░░   62.72 % 
-Opus                     7,225 lines         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-Fable                    4,578 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Glm                      631 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-K                        65 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+GPT                      17,700 lines        ████████████████░░░░░░░░░   62.24 % 
+Opus                     5,806 lines         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Fable                    4,174 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Glm                      631 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+K                        65 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.36% of written lines came from AI
-📚 Verbose Prompter — average 21,401 characters per prompt
+🤖 AI-Driven — 89.88% of written lines came from AI
+📚 Verbose Prompter — average 18,920 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.72% of changed lines were hand-edited
+🚀 High AI Trust — 10.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -108,6 +108,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 08:28:11 UTC
+ Last Updated on 12/09/2026 08:17:20 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
