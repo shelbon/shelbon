@@ -19,9 +19,9 @@
 
 [My dev passport](https://passeport.dev/p/e96cf336-11d7-4edd-916d-11af626333a8)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C226%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C233%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C268%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C276%20hrs%2055%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -50,45 +50,45 @@ Sunday                   2035 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      15 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
-Markdown                 14 hrs 56 mins      ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-JavaScript               8 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Other                    4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Bash                     4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Markdown                 14 hrs 43 mins      ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+PHP                      14 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+JavaScript               11 hrs 39 mins      █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Other                    4 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+TypeScript               4 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 🔥 Editors: 
-Claude Code              38 hrs 7 mins       ████████████████░░░░░░░░░   65.50 % 
-Neovim                   16 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-Codex CLI                3 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Claude Code              43 hrs 13 mins      ██████████████████░░░░░░░   70.24 % 
+Neovim                   13 hrs 50 mins      ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Codex CLI                4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 💻 Operating System: 
-Linux                    58 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    61 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 hrs 43 mins (94.02%)
+⏱ AI Coding Time: 60 hrs 9 mins (97.77%)
 
-✍️ 22,255 lines written by AI, 164 lines written by hand (99.27% AI-written)
+✍️ 29,862 lines written by AI, 123 lines written by hand (99.59% AI-written)
 
-🔤 65,204,730 Input Tokens, 7,507,198 Output Tokens
+🔤 68,896,342 Input Tokens, 8,539,704 Output Tokens
 
-💵 $1943.16 Estimated AI Cost This Week
+💵 $2092.43 Estimated AI Cost This Week
 
-🧠 133 AI Sessions, 1067 AI Prompts
+🧠 130 AI Sessions, 1228 AI Prompts
 
-Opus                     8,217 lines         █████████████░░░░░░░░░░░░   51.20 % 
-GPT                      4,678 lines         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-Fable                    1,375 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Glm                      926 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Codex-Cli                853 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Opus                     15,805 lines        █████████████████░░░░░░░░   69.28 % 
+GPT                      4,755 lines         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Fable                    1,375 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Codex-Cli                853 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Glm                      24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.27% of written lines came from AI
-📚 Verbose Prompter — average 4,145 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.94% of changed lines were hand-edited
+🤖 AI-Driven — 99.59% of written lines came from AI
+📚 Verbose Prompter — average 4,784 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -108,6 +108,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 09:16:02 UTC
+ Last Updated on 26/09/2026 08:59:12 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
