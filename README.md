@@ -19,9 +19,9 @@
 
 [My dev passport](https://passeport.dev/p/e96cf336-11d7-4edd-916d-11af626333a8)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C244%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C254%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C289%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C298%20hrs%2030%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -50,45 +50,45 @@ Sunday                   2035 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 15 hrs 55 mins      ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-PHP                      15 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-JavaScript               14 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-TypeScript               3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Other                    3 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Markdown                 20 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   32.88 % 
+JavaScript               16 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+PHP                      7 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+TypeScript               3 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Other                    3 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🔥 Editors: 
-Claude Code              48 hrs 41 mins      ████████████████████░░░░░   78.11 % 
-Neovim                   9 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Codex CLI                4 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Claude Code              51 hrs 15 mins      ████████████████████░░░░░   81.95 % 
+Neovim                   6 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Codex CLI                4 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 💻 Operating System: 
-Linux                    62 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    62 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 61 hrs 33 mins (98.76%)
+⏱ AI Coding Time: 61 hrs 59 mins (99.11%)
 
-✍️ 39,488 lines written by AI, 87 lines written by hand (99.78% AI-written)
+✍️ 39,968 lines written by AI, 58 lines written by hand (99.86% AI-written)
 
-🔤 104,255,151 Input Tokens, 12,422,974 Output Tokens
+🔤 84,585,349 Input Tokens, 12,706,228 Output Tokens
 
-💵 $3153.88 Estimated AI Cost This Week
+💵 $2516.83 Estimated AI Cost This Week
 
-🧠 94 AI Sessions, 1701 AI Prompts
+🧠 153 AI Sessions, 1721 AI Prompts
 
-Opus                     33,783 lines        █████████████████████░░░░   82.68 % 
-GPT                      3,360 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Fable                    2,928 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Glm                      657 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Opus                     35,079 lines        █████████████████████░░░░   85.21 % 
+Fable                    2,928 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+GPT                      2,791 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Opencode-Cli             240 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 Codex-Cli                131 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📚 Verbose Prompter — average 4,272 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 0.3% of changed lines were hand-edited
+🤖 AI-Driven — 99.86% of written lines came from AI
+📚 Verbose Prompter — average 4,299 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -108,6 +108,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 10:22:57 UTC
+ Last Updated on 29/09/2026 10:19:09 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
