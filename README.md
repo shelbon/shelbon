@@ -19,9 +19,9 @@
 
 [My dev passport](https://passeport.dev/p/e96cf336-11d7-4edd-916d-11af626333a8)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C319%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C326%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C371%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C382%20hrs%2023%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -50,43 +50,43 @@ Sunday                   2035 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 11 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-PHP                      10 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-Other                    9 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-Text                     3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Python                   1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Markdown                 10 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   31.35 % 
+PHP                      10 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   30.59 % 
+Other                    6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Text                     3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Python                   1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 59 mins      ██████████████░░░░░░░░░░░   55.60 % 
-Codex Vscode             16 hrs 59 mins      ███████████░░░░░░░░░░░░░░   42.97 % 
-Neovim                   33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Claude Code              19 hrs 57 mins      ██████████████░░░░░░░░░░░   57.08 % 
+Codex Vscode             14 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   41.19 % 
+Neovim                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 💻 Operating System: 
-Linux                    39 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    34 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 24 mins (99.66%)
+⏱ AI Coding Time: 34 hrs 49 mins (99.61%)
 
-✍️ 9,097 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,927 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 38,401,969 Input Tokens, 4,589,222 Output Tokens
+🔤 32,373,797 Input Tokens, 4,110,555 Output Tokens
 
-💵 $928.60 Estimated AI Cost This Week
+💵 $786.90 Estimated AI Cost This Week
 
-🧠 171 AI Sessions, 1731 AI Prompts
+🧠 144 AI Sessions, 1634 AI Prompts
 
-Opus                     6,426 lines         █████████████████░░░░░░░░   66.40 % 
-GPT                      3,244 lines         ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Sonnet                   7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Opus                     4,999 lines         ███████████████░░░░░░░░░░   59.53 % 
+GPT                      3,244 lines         ██████████░░░░░░░░░░░░░░░   38.63 % 
+Sonnet                   155 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,931 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 1,916 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -107,6 +107,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 11:31:21 UTC
+ Last Updated on 13/10/2026 11:20:32 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
