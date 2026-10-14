@@ -19,9 +19,9 @@
 
 [My dev passport](https://passeport.dev/p/e96cf336-11d7-4edd-916d-11af626333a8)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C326%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C335%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C382%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C394%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -50,43 +50,44 @@ Sunday                   2035 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 10 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   31.35 % 
-PHP                      10 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   30.59 % 
-Other                    6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Text                     3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Python                   1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Markdown                 10 hrs              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+PHP                      9 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.84 % 
+Other                    4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Text                     3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+JavaScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 57 mins      ██████████████░░░░░░░░░░░   57.08 % 
-Codex Vscode             14 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   41.19 % 
-Neovim                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Claude Code              17 hrs 41 mins      ███████████████░░░░░░░░░░   58.87 % 
+Codex Vscode             11 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   39.81 % 
+Neovim                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 💻 Operating System: 
-Linux                    34 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 49 mins (99.61%)
+⏱ AI Coding Time: 29 hrs 57 mins (99.73%)
 
-✍️ 7,927 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,563 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 32,373,797 Input Tokens, 4,110,555 Output Tokens
+🔤 27,111,635 Input Tokens, 3,608,602 Output Tokens
 
-💵 $786.90 Estimated AI Cost This Week
+💵 $626.57 Estimated AI Cost This Week
 
-🧠 144 AI Sessions, 1634 AI Prompts
+🧠 127 AI Sessions, 1527 AI Prompts
 
-Opus                     4,999 lines         ███████████████░░░░░░░░░░   59.53 % 
-GPT                      3,244 lines         ██████████░░░░░░░░░░░░░░░   38.63 % 
-Sonnet                   155 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Opus                     6,357 lines         ████████████████░░░░░░░░░   65.15 % 
+GPT                      3,244 lines         ████████░░░░░░░░░░░░░░░░░   33.24 % 
+Sonnet                   155 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Haiku                    2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,916 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📚 Verbose Prompter — average 1,597 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -107,6 +108,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 11:20:32 UTC
+ Last Updated on 14/10/2026 09:12:45 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
