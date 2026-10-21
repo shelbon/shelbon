@@ -19,9 +19,9 @@
 
 [My dev passport](https://passeport.dev/p/e96cf336-11d7-4edd-916d-11af626333a8)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C372%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C386%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C436%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C452%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -50,45 +50,45 @@ Sunday                   2035 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 17 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   30.78 % 
-PHP                      12 hrs 21 mins      █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Other                    8 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-JavaScript               3 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Bash                     3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+PHP                      14 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+Markdown                 12 hrs 49 mins      ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Other                    7 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+TypeScript               3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Bash                     3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 🔥 Editors: 
-Claude Code              30 hrs 1 min        █████████████░░░░░░░░░░░░   52.33 % 
-Codex Vscode             13 hrs 42 mins      ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-Neovim                   12 hrs 38 mins      ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-Codex CLI                54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Vim                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Claude Code              27 hrs 5 mins       █████████████░░░░░░░░░░░░   50.27 % 
+Neovim                   16 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+Codex Vscode             9 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Codex CLI                54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Vim                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Linux                    57 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    53 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 hrs 18 mins (96.4%)
+⏱ AI Coding Time: 51 hrs 48 mins (96.17%)
 
-✍️ 25,627 lines written by AI, 10 lines written by hand (99.96% AI-written)
+✍️ 25,377 lines written by AI, 10 lines written by hand (99.96% AI-written)
 
-🔤 57,913,370 Input Tokens, 7,642,148 Output Tokens
+🔤 58,993,529 Input Tokens, 7,731,533 Output Tokens
 
-💵 $934.35 Estimated AI Cost This Week
+💵 $982.97 Estimated AI Cost This Week
 
-🧠 1405 AI Sessions, 3465 AI Prompts
+🧠 1621 AI Sessions, 3598 AI Prompts
 
-GPT                      11,855 lines        ███████████░░░░░░░░░░░░░░   45.35 % 
-Opus                     11,216 lines        ███████████░░░░░░░░░░░░░░   42.91 % 
-Sonnet                   1,958 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Fable                    1,110 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Haiku                    2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+GPT                      15,686 lines        ███████████████░░░░░░░░░░   60.56 % 
+Opus                     6,562 lines         ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Sonnet                   1,929 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Fable                    1,725 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 2,943 characters per prompt
+📚 Verbose Prompter — average 3,192 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
@@ -110,6 +110,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 09:03:39 UTC
+ Last Updated on 21/10/2026 09:02:42 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
