@@ -50,47 +50,47 @@ Sunday                   2035 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      14 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-Markdown                 12 hrs 49 mins      ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-Other                    7 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-TypeScript               3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Bash                     3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+PHP                      12 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+Markdown                 10 hrs              ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+Other                    5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+TypeScript               3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+JavaScript               2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 5 mins       █████████████░░░░░░░░░░░░   50.27 % 
-Neovim                   16 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-Codex Vscode             9 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Codex CLI                54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Vim                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Claude Code              22 hrs 14 mins      █████████████░░░░░░░░░░░░   52.41 % 
+Neovim                   13 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   32.23 % 
+Codex Vscode             6 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Vim                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    53 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    42 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 hrs 48 mins (96.17%)
+⏱ AI Coding Time: 42 hrs 10 mins (99.35%)
 
-✍️ 25,377 lines written by AI, 10 lines written by hand (99.96% AI-written)
+✍️ 21,935 lines written by AI, 1 lines written by hand (100.0% AI-written)
 
-🔤 58,993,529 Input Tokens, 7,731,533 Output Tokens
+🔤 50,447,163 Input Tokens, 6,606,538 Output Tokens
 
-💵 $982.97 Estimated AI Cost This Week
+💵 $847.79 Estimated AI Cost This Week
 
-🧠 1621 AI Sessions, 3598 AI Prompts
+🧠 1523 AI Sessions, 3078 AI Prompts
 
-GPT                      15,686 lines        ███████████████░░░░░░░░░░   60.56 % 
-Opus                     6,562 lines         ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-Sonnet                   1,929 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Fable                    1,725 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+GPT                      13,204 lines        ███████████████░░░░░░░░░░   59.01 % 
+Opus                     6,562 lines         ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+Sonnet                   1,681 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Fable                    930 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 3,192 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,447 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -110,6 +110,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shelbon/shelbon/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 09:02:42 UTC
+ Last Updated on 22/10/2026 09:05:07 UTC
 <!--END_SECTION:waka--> 
 ![Metrics](https://github.com/shelbon/shelbon/blob/main/github-metrics.svg)
